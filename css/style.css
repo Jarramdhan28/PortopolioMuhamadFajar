@@ -1,0 +1,59 @@
+.background{
+  background-color: #F8F9FA;
+}
+
+.judulweb{
+  font-family: 'Dancing Script', cursive;
+}
+
+.whitee{
+  background: #fff;
+}
+
+.navigasii{
+  font-weight: bold;
+  font-family: 'Zilla Slab', serif;
+}
+
+.font-mf{
+  font-size: 76px;
+  margin-bottom: -6.75px!important;
+}
+
+.font-hi{
+  font-size: 30px;
+  margin-bottom: -24.75px!important;
+}
+
+.font-ket{
+  font-size: 20px;
+  font-family: 'Zilla Slab', serif;
+}
+
+.img-logo img{
+  width: 350px;
+}
+
+p {
+    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+ion-icon {
+  color: #0089ff;
+}
+
+.btn-biru{
+  background-color: #0089ff; /* Green */
+  border: none;
+  color: white;
+  padding: 8px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
