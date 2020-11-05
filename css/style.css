@@ -21,8 +21,13 @@
 }
 
 .font-hi{
-  font-size: 30px;
+  font-size: 40px;
   margin-bottom: -24.75px!important;
+  font-family: 'Dancing Script', cursive;
+}
+.font-hi-about{
+  font-size: 40px;
+  font-family: 'Dancing Script', cursive;
 }
 
 .font-ket{
@@ -44,7 +49,7 @@ p {
 
 
 ion-icon {
-  color: #0089ff;
+    color: #0089ff;
 }
 
 .btn-biru{
@@ -56,4 +61,8 @@ ion-icon {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+
+.mt-about{
+  margin-top: 125px;
 }
