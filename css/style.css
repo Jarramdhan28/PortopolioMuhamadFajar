@@ -1,6 +1,9 @@
 .background{
-  background-color: #F8F9FA;
+  /* background-color: #F8F9FA; */
+
+ffffba
 }
+
 
 .judulweb{
   font-family: 'Dancing Script', cursive;
@@ -35,9 +38,9 @@
   font-family: 'Zilla Slab', serif;
 }
 
-.img-logo img{
+/* .img-logo img{
   width: 350px;
-}
+} */
 
 p {
     display: block;
@@ -49,20 +52,59 @@ p {
 
 
 ion-icon {
-    color: #0089ff;
+    color: #fff;
 }
 
 .btn-biru{
   background-color: #0089ff; /* Green */
   border: none;
   color: white;
-  padding: 8px 26px;
+  padding: 6px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
 }
+.btn-biru:hover{
+  background-color: #0089ff; /* Green */
+  border: none;
+  color: yellow;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+footer{
+  background: blue;
+}
+
+.nav-link{
+  color: black;
+}
+.nav-link:hover{
+  color: yellow;
+}
 
 .mt-about{
   margin-top: 125px;
+}
+.mt-main2{
+  margin-top: 100px;
+}
+.mt-main{
+  margin-top: 170px;
+}
+.mb-10{
+  margin-bottom: 125px;
+}
+
+.image-hover{
+  filter: saturate(90%);
+  transition: .3s;
+}
+
+.image-hover:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+  filter: saturate(100%);
 }
